@@ -1,16 +1,12 @@
 # bitcoin_ticker
 
-A new Flutter application.
+It is the Application Which get the Current BTC , HTC ,LTC prices and also convert into the Multiple Currency .
+this app is made up with Flutter and Dart and also with The Bitcoin Ticker API.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+https://user-images.githubusercontent.com/69413218/118012166-64920e00-b36e-11eb-8329-7e19bd3323bf.mp4
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![WhatsApp Image 2021-05-12 at 8 36 35 PM](https://user-images.githubusercontent.com/69413218/118012193-6c51b280-b36e-11eb-903c-e20cefac8ee0.jpeg)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
